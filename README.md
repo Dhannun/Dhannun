@@ -133,22 +133,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Dhannun/Dhannun/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
 
 <h4 align="center">⭐️ "Build systems that scale. Secure them. Automate everything."</h4>
-
-<p align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Dhannun/count.svg)
-  
-</p>
 
 <p align="center">Made with ❤️ by <a href="https://github.com/Dhannun">Yunus Muhammad Abu-Dukhan</a></p>
