@@ -3,7 +3,7 @@
 </div>
 
 <!-- Profile Header -->
-<h1 align="center">👋 As-salamu alaykum wa rahmatullahi wa barakatuh, I'm <strong>Yunus Muhammad Abu-Dukhan (Abu-Maryam)</strong></h1>
+<h1 align="center">👋 As-salamu alaykum, I'm <strong>Yunus Muhammad Abu-Dukhan</strong></h1>
 
 <h3 align="center">💻 Senior Backend Engineer | ☁️ Cloud & DevSecOps Specialist | 🛡️ AWS | Java | TypeScript</h3>
 
