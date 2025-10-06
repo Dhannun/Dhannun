@@ -1,231 +1,192 @@
-<!-- Profile Header -->
-<h1 align="center">👋 As-salamu alaykum wa rahmatullahi wa barakatuh, I'm <strong>Yunus Muhammad Abu-Dukhan (Abu-Maryam)</strong></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhannun&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+</div>
 
-<h3 align="center">💻 Senior Backend Engineer | ☁️ Cloud & DevSecOps Specialist | 🛡️ AWS | Java | TypeScript</h3>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3AACF7&center=true&vCenter=true&random=false&width=600&lines=Senior+Backend+Engineer+%F0%9F%9A%80;Cloud+%26+DevSecOps+Specialist+%E2%98%81%EF%B8%8F;Microservices+Architect+%F0%9F%8F%97%EF%B8%8F;Java+%26+TypeScript+Expert+%F0%9F%92%BB)](https://git.io/typing-svg)
+  
+</div>
 
----
+<br>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16C60C&width=600&lines=Senior+Backend+Engineer;Cloud+%26+DevSecOps+Specialist;AWS+%7C+Spring+Boot+%7C+NestJS;Java+%7C+TypeScript+%7C+PostgreSQL;Building+Scalable+%26+Secure+Systems" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
----
+## 🚀 About Me
 
-## 🧠 About Me
+```typescript
+const dhannun = {
+    location: "Kano, Nigeria 🇳🇬",
+    role: "Senior Backend Engineer",
+    specializations: [
+        "Backend Development",
+        "Cloud Architecture (AWS)",
+        "DevOps & DevSecOps",
+        "Microservices & Monolithic Systems"
+    ],
+    currently: {
+        building: "Scalable cloud-native applications",
+        learning: "Advanced Kubernetes patterns & Security",
+        focus: "CI/CD optimization & Infrastructure as Code"
+    },
+    askMeAbout: [
+        "Spring Boot", "NestJS", "AWS", 
+        "Kubernetes", "Docker", "CI/CD"
+    ]
+};
+```
 
-- 💼 Senior Backend Engineer with expertise in **Monolithic & Microservice** architectures  
-- ☁️ Cloud Engineer experienced with **AWS (EKS, ECS, EC2, Lambda, S3, MediaConvert, CloudFront, and more)**  
-- 🔒 DevSecOps Practitioner focused on **secure automation and infrastructure**  
-- 🚀 Passionate about **building scalable APIs**, **automating deployments**, and **cloud-native architectures**  
-- 🌍 Based in **Kano, Nigeria**
+<br>
 
----
+## 🛠️ Tech Arsenal
 
-## ⚙️ Tech Stack
+<div align="center">
 
-### 🧩 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
-
-### 🏗️ Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-316CE6?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### 🔁 CI/CD & GitOps
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Cert-Manager](https://img.shields.io/badge/Cert_Manager-0078D4?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
-
----
-
-## 🧰 Expertise Areas
-
-✅ **Backend Development** — RESTful APIs, GraphQL, Spring Boot, NestJS  
-✅ **Cloud Engineering** — AWS (EKS, ECS, EC2, Lambda, S3, CloudFront, etc.)  
-✅ **DevOps & GitOps** — CI/CD Pipelines, ArgoCD, Jenkins, GitHub Actions  
-✅ **DevSecOps** — Security Automation, Vulnerability Scanning, Policy Enforcement  
-✅ **Infrastructure as Code (IaC)** — Declarative deployments & Kubernetes management  
-✅ **Database Architecture** — PostgreSQL, MongoDB, Data Modeling  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhannun&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhannun&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhannun&theme=react-dark&bg_color=0D1117&hide_border=true" width="98%"/>
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhannun&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%"/>
-</p>
-
----
-
-## 🛠️ What I'm Working On
-
-- 🌐 Building **scalable microservice-based architectures**  
-- ⚙️ Automating **CI/CD & GitOps pipelines**  
-- 🔐 Integrating **DevSecOps** practices into production workflows  
-- 💡 Optimizing **AWS infrastructure** for performance and cost  
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Dhannun/Dhannun/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-<h4 align="center">⭐️ “Build systems that scale. Secure them. Automate everything.”</h4>
-
-<p align="center">Made with ❤️ by <a href="https://github.com/Dhannun">Yunus Muhammad Abu-Dukhan</a></p>
-
-
-
-<!--
-# Hi there, I am Yunus Muhammad Abu-Dukhan👋🏼
-
-## Senior Backend Engineer | Cloud & DevSecOps Specialist
-
-I'm a passionate backend engineer with extensive experience in building scalable, secure, and resilient applications using modern cloud-native architectures. I specialize in both monolithic and microservice architectures, with a strong focus on DevOps and DevSecOps practices.
-
-### 🚀 About Me
-
-- 💼 Senior Backend Developer specializing in enterprise-grade applications
-- ☁️ Cloud & DevOps Engineer with hands-on AWS expertise
-- 🔒 DevSecOps practitioner focused on security-first development
-- 🏗️ Experienced in designing and implementing both Monolithic and Microservice architectures
-- 🌍 Based in Kano, Nigeria
-
-### 💻 Tech Stack
-
-#### Languages
+### 💾 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### Backend Frameworks
+### 🎯 Backend Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-#### Databases
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-#### Cloud & Infrastructure (AWS)
+### ☁️ Cloud & AWS Services
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- **Compute:** EC2, ECS, EKS, Lambda
-- **Storage:** S3, ECR
-- **Media:** MediaConvert
-- **CDN:** CloudFront
-- **And more AWS services**
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### DevOps & CI/CD
+### 🐳 DevOps & Container Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-#### DevSecOps & Tools
-- **GitOps:** ArgoCD
-- **Ingress Controllers:** NGINX Ingress Controller
-- **SSL/TLS:** Cert-Manager, Let's Encrypt
-- **Container Registry:** Docker Hub, Amazon ECR
-- **Operating Systems:** Linux (Ubuntu)
-- **Remote Access:** SSH
+### 🔧 Tools & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
+</div>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhannun&show_icons=true&theme=radical&hide_border=true)
+<br>
 
-### 📈 Most Used Languages
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhannun&layout=compact&theme=radical&hide_border=true&langs_count=8)
+## 📊 GitHub Analytics
 
-### 🏆 Areas of Expertise
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhannun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhannun&theme=tokyonight&hide_border=true" />
+</div>
 
-- **Backend Development:** RESTful APIs, GraphQL, Microservices, Monolithic Applications
-- **Cloud Architecture:** AWS Cloud Solutions, Serverless Architecture, Container Orchestration
-- **DevOps:** CI/CD Pipelines, Infrastructure as Code, Container Management
-- **DevSecOps:** Security Integration, Automated Security Scanning, Secure Deployment Pipelines
-- **Database Design:** Relational (PostgreSQL) and NoSQL (MongoDB) Database Architecture
-- **GitOps:** Declarative Infrastructure, Automated Deployments with ArgoCD
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhannun&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=repo-name" />
+</div>
 
-### 🔧 What I'm Working On
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhannun&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
 
-- Building scalable microservices architectures
-- Implementing robust CI/CD pipelines
-- Optimizing cloud infrastructure costs
-- Enhancing application security through DevSecOps practices
+<br>
 
-### 📫 Let's Connect
+## 🎯 Expertise Highlights
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+      <br><b>Backend Architecture</b>
+      <br>RESTful APIs • GraphQL
+      <br>Microservices • Monoliths
+      <br>Event-Driven Systems
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+      <br><b>Cloud Engineering</b>
+      <br>AWS Solutions Architecture
+      <br>Serverless • Containers
+      <br>Infrastructure as Code
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+      <br><b>DevOps & CI/CD</b>
+      <br>GitOps with ArgoCD
+      <br>Jenkins • GitHub Actions
+      <br>Automated Pipelines
+    </td>
+    <td align="center" width="50%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+      <br><b>DevSecOps</b>
+      <br>Security Integration
+      <br>Cert Manager • Let's Encrypt
+      <br>Secure Deployments
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🌟 Current Focus
+
+```yaml
+projects:
+  - Building scalable microservices with Spring Boot & NestJS
+  - Implementing GitOps workflows with ArgoCD
+  - Optimizing AWS infrastructure costs
+  - Enhancing CI/CD pipelines with security scanning
+  
+learning:
+  - Advanced Kubernetes operators
+  - Service mesh implementations
+  - Cloud-native security patterns
+  - Infrastructure automation at scale
+```
+
+<br>
+
+## 📫 Let's Connect
+
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
----
+</div>
 
-⭐️ From [Dhannun](https://github.com/Dhannun)
+<br>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
 
--->
-<!--
-**Dhannun/Dhannun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Dhannun/count.svg)
+  
+  ### 💡 *"Building scalable systems, one microservice at a time"*
+  
+</div>
