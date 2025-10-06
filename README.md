@@ -133,6 +133,13 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake Animation
+
+![snake animation](https://raw.githubusercontent.com/Dhannun/Dhannun/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
