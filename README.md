@@ -5,7 +5,7 @@
 <!-- Profile Header -->
 <h1 align="center">👋 As-salamu alaykum, I'm <strong>Yunus Muhammad Abu-Dukhan</strong></h1>
 
-<h3 align="center">💻 Senior Backend Engineer | ☁️ Cloud & DevSecOps Specialist | 🛡️ AWS | Java | TypeScript</h3>
+<h3 align="center">💻 Senior Backend Engineer | ☁️ Cloud & DevSecOps Specialist</h3>
 
 ---
 
